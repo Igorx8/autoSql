@@ -2,6 +2,7 @@
 Projeto para inserir ou selecionar dados em mais de um banco simultaneamente
 
 Para usar é necessário instalar a dependência do MySql
+
 npm i
 
 Após instalar, no diretório do autoSql é necessário rodar o comando com 3 parametros:
