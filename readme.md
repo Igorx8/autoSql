@@ -3,7 +3,9 @@ Projeto para rodar consultas em vários bancos simultâneamente (inserir, deleta
 
 Para usar é necessário instalar a dependência do MySql
 
+```
 npm i
+```
 
 Após instalar, no diretório do autoSql é necessário rodar o comando com 3 parametros:
 
