@@ -1,5 +1,5 @@
 
-Projeto para inserir ou selecionar dados em mais de um banco simultaneamente
+Projeto para rodar consultas em vários bancos simultâneamente (inserir, deletar, selecionar ou atualizar)
 
 Para usar é necessário instalar a dependência do MySql
 
