@@ -8,7 +8,9 @@ npm i
 Após instalar, no diretório do autoSql é necessário rodar o comando com 3 parametros:
 
 1 - npm run query
+
 2 - "insert into {banco}.tabela (campos) values (valores)"
+
 3 - nomes dos bancos a inserir separados por espaço
 
 A estrutura fica dessa forma:
