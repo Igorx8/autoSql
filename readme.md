@@ -7,7 +7,9 @@ Para usar é necessário instalar a dependência do MySql
 npm i
 ```
 
-Após instalar, no diretório do autoSql é necessário rodar o comando com 3 parametros:
+Após instalar é necessário configurar os dados de acesso no arquivo config.json no diretório do autoSql
+
+Para usar são necessários 3 parametros:
 
 1 - npm run query
 
